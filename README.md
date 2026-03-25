@@ -56,8 +56,7 @@ el codigo se ve así:
 <img width="794" height="370" alt="image" src="https://github.com/user-attachments/assets/c2f73a57-570b-4511-8fbe-2dbf41d31f97" />
 
 
-
-#Funsión del Juego Pacman ya completado:
+# Funsión del Juego Pacman ya completado:
 
 
 
