@@ -7,10 +7,14 @@ Integrantes: 1- Juan Pablo Henríquez Montano (Pantalla de Game Over con opción
              3- Lisseth Abigail Martínez Martínez (Nuevo tipo de obstáculo o enemigo con comportamiento diferente)                                                    
              4- Cristy Marinela De León Contreras (Mejora visual del HUD (nivel, velocidad, récord o porcentaje de progreso)                                                
              5- Melissa Rosibel Castro Rivas (Documentación del código y desarrollo del juego.)
+
             
+
          
 ## Descripción del juego Pacman
 Pacman es un juego clásico en el que el jugador controla un personaje que debe recorrer un laberinto comiendo puntos mientras evita a los enemigos que son fantasmas. El objetivo es completar el nivel sin ser atrapado.
+
+
 
 
 
@@ -27,12 +31,15 @@ View: maneja la parte visual (GamePanel, MazePanel).
 
 
 
+
 Cada clase cumple una función específica dentro del sistema, lo que permite dividir el programa en partes más organizadas y fáciles de entender. Esta estructura facilita el mantenimiento del código, ya que si se necesita modificar alguna funcionalidad, se puede hacer directamente en la clase correspondiente sin afectar todo el proyecto. Además, esta forma de organización mejora la reutilización del código y permite que el desarrollo sea más ordenado, claro y escalable, siguiendo los principios de la Programación Orientada a Objetos.
+
 
 
 
 ## Uso de Programación Orientada a Objetos
 En el proyecto se aplica herencia, ya que algunas clases comparten características comunes, como los enemigos del juego. También se utiliza polimorfismo, permitiendo que diferentes objetos respondan de manera distinta a las mismas acciones, como el movimiento o comportamiento dentro del juego. 
+
 
 
 
