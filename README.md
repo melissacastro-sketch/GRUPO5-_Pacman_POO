@@ -57,7 +57,7 @@ el codigo se ve así:
 
 
 
-Funsión del Juego Pacman ya completado:
+#Funsión del Juego Pacman ya completado:
 
 
 
